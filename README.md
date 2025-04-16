@@ -16,7 +16,11 @@ Siempre en busca de nuevos retos, actualmente estoy desarollando habilidades en 
 
 ## Skills
 
-![Python](https://img.shields.io/badge/:Python-07D40A?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)</br>
-![SQL](https://img.shields.io/badge/:SQL-E36B26?style=for-the-badge&logo=sql&logoColor=white&labelColor=101010)</br>
+![Python](https://img.shields.io/badge/:Python-024A86?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)</br>
+![MySQL](https://img.shields.io/badge/:MySQL-E36B26?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)</br>
+![PowerBI](https://img.shields.io/badge/:PowerBI-8C4966?style=for-the-badge&logo=powerbi&logoColor=white&labelColor=101010)</br>
+
+#Contacto
+[![LinkedIn](https://img.shields.io/badge/:LinkedIn-8C4966?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)(www.linkedin.com/in/refugio-noriega)
 
 
