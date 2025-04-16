@@ -16,6 +16,7 @@ Siempre en busca de nuevos retos, actualmente estoy desarollando habilidades en 
 
 ## Skills
 
-![Python](https://img.shields.io/badge/:Python-E36B26?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)</br>
+![Python](https://img.shields.io/badge/:Python-07D40A?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)</br>
+![SQL](https://img.shields.io/badge/:SQL-E36B26?style=for-the-badge&logo=sql&logoColor=white&labelColor=101010)</br>
 
 
