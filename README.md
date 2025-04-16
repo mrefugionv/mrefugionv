@@ -20,7 +20,7 @@ Siempre en busca de nuevos retos, actualmente estoy desarollando habilidades en 
 ![MySQL](https://img.shields.io/badge/:MySQL-E36B26?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)</br>
 ![PowerBI](https://img.shields.io/badge/:PowerBI-8C4966?style=for-the-badge&logo=microstrategy&logoColor=white&labelColor=101010)</br>
 
-#Contacto
+##Contacto
 [![LinkedIn](https://img.shields.io/badge/:LinkedIn-8C4966?style=for-the-badge&logo=librarything&logoColor=white&labelColor=101010)](www.linkedin.com/in/refugio-noriega)
 
 
