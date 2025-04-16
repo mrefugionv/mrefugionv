@@ -21,6 +21,6 @@ Siempre en busca de nuevos retos, actualmente estoy desarollando habilidades en 
 ![PowerBI](https://img.shields.io/badge/:PowerBI-8C4966?style=for-the-badge&logo=microstrategy&logoColor=white&labelColor=101010)</br>
 
 #Contacto
-[![LinkedIn](https://img.shields.io/badge/:LinkedIn-8C4966?style=for-the-badge&logo=librarything&logoColor=white&labelColor=101010)(www.linkedin.com/in/refugio-noriega)
+[![LinkedIn](https://img.shields.io/badge/:LinkedIn-8C4966?style=for-the-badge&logo=librarything&logoColor=white&labelColor=101010)](www.linkedin.com/in/refugio-noriega)
 
 
