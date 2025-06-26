@@ -1,4 +1,4 @@
-## Hola, soy Refugio👋. ¡Bienvenid@ a este espacio!
+## ¡Bienvenid@! Soy Refugio👋.
 
 <!--
 **mrefugionv/mrefugionv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -6,13 +6,11 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Data Analisys Projects
-- 🌱 I’m currently learning  Python, SQL.
+- 🌱 I’m currently learning  Python, SQL & Tableu. 
 -->
 
 ## Sobre mí: 
-🦽Ingeniera biomédica, disfrutando de mi crecimiento profesional en el área de  📊 Analista de datos.
-
-Siempre en busca de nuevos retos, actualmente estoy desarollando habilidades en programación.
+🦽Ingeniera biomédica, siempre en busca de nuevos retos.  Actualmente estoy desarollando habilidades en programaciónpara el análisis de datos.
 
 ## Skills
 
