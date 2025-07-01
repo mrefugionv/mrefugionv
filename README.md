@@ -17,9 +17,11 @@ Here are some ideas to get you started:
 ![Python](https://img.shields.io/badge/:Python-024A86?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)</br>
 ![MySQL](https://img.shields.io/badge/:MySQL-E36B26?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)</br>
 ![Tableu](https://img.shields.io/badge/:Tableu-8C4966?style=for-the-badge&logo=microstrategy&logoColor=white&labelColor=101010)</br>
+https://public.tableau.com/app/profile/maria.del.refugio.noriega/vizzes
 
 ## Contacto
 
 [![LinkedIn](https://img.shields.io/badge/:LinkedIn-8C4966?style=for-the-badge&logo=librarything&logoColor=white&labelColor=101010)](www.linkedin.com/in/refugio-noriega)
+https://www.linkedin.com/in/refugio-noriega/
 
 
