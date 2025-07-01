@@ -1,4 +1,4 @@
-## ¡Bienvenid@! Soy Refugio👋.
+## ¡Welcome! I am Refugio👋.
 
 <!--
 **mrefugionv/mrefugionv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -9,10 +9,10 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning  Python, SQL & Tableu. 
 -->
 
-## Sobre mí: 
-🦽Ingeniera biomédica, siempre en busca de nuevos retos.  Actualmente desarollando habilidades en programación para el análisis de datos.
+## About me : 
+🦽Biomedical engineer, always looking for new challenges.  Currently developing programming skills for data analysis.
 
-## Herramientas
+## Tools
 
 ![Python](https://img.shields.io/badge/:Python-024A86?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)</br>
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
@@ -55,11 +55,11 @@ Here are some ideas to get you started:
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 
 
-## Contacto
+## Contact
 
 [![LinkedIn](https://img.shields.io/badge/:LinkedIn-8C4966?style=for-the-badge&logo=librarything&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/refugio-noriega/)
 
-## Conoce mis proyectos
+## Get to know my projects
 [![Tableu](https://img.shields.io/badge/:Tableu-8C4966?style=for-the-badge&logo=microstrategy&logoColor=white&labelColor=101010)](https://public.tableau.com/app/profile/maria.del.refugio.noriega/vizzes)
 [![Github](https://img.shields.io/badge/github-121013?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mrefugionv)
 
