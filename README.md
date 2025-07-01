@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 
 [![LinkedIn](https://img.shields.io/badge/:LinkedIn-8C4966?style=for-the-badge&logo=librarything&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/refugio-noriega/)
 
-# Puedes conocer mis proyectos en:
+## Puedes conocer mis proyectos en:
 [![Tableu](https://img.shields.io/badge/:Tableu-8C4966?style=for-the-badge&logo=microstrategy&logoColor=white&labelColor=101010)](https://public.tableau.com/app/profile/maria.del.refugio.noriega/vizzes)
 [![Github](https://img.shields.io/badge/github-121013?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mrefugionv)
 
