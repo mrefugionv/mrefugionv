@@ -55,11 +55,6 @@ Here are some ideas to get you started:
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 
 
-
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![HTML](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Matlab](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
 ## Contacto
 
 [![LinkedIn](https://img.shields.io/badge/:LinkedIn-8C4966?style=for-the-badge&logo=librarything&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/refugio-noriega/)
