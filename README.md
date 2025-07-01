@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 -->
 
 ## Sobre mí: 
-🦽Ingeniera biomédica, siempre en busca de nuevos retos.  Actualmente estoy desarollando habilidades en programaciónpara el análisis de datos.
+🦽Ingeniera biomédica, siempre en busca de nuevos retos.  Actualmente desarollando habilidades en programación para el análisis de datos.
 
 ## Skills
 
