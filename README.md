@@ -22,6 +22,6 @@ https://public.tableau.com/app/profile/maria.del.refugio.noriega/vizzes
 ## Contacto
 
 ![LinkedIn](https://img.shields.io/badge/:LinkedIn-8C4966?style=for-the-badge&logo=librarything&logoColor=white&labelColor=101010)](www.linkedin.com/in/refugio-noriega)
-https://www.linkedin.com/in/refugio-noriega/
+
 
 
