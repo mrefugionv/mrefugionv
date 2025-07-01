@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 ## Sobre mí: 
 🦽Ingeniera biomédica, siempre en busca de nuevos retos.  Actualmente desarollando habilidades en programación para el análisis de datos.
 
-## Skills
+## Herramientas
 
 ![Python](https://img.shields.io/badge/:Python-024A86?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)</br>
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
