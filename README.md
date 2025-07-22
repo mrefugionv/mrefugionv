@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 -->
 
 ## About me : 
-🦽Biomedical engineer, passionate about the holistic approach to wellness. Through the application of my skills in data management and visualization tools within the healthcare industry, I aim to support the generation of solutions that impact lives. I strive to ensure the delivery of high quality projects in a timely manner and like to be continuously learning.
+🦽Biomedical engineer passionate about exploring data to turn it into meaningful insights that support decision making in a variety of industries, improving services and people's lives. I am committed to delivering high-quality projects on time and am eager to keep learning.
 
 
 ## Tools
