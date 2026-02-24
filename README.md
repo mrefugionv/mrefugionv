@@ -10,8 +10,8 @@ Here are some ideas to get you started:
 -->
 
 ## About me : 
-🦽Biomedical engineer passionate about exploring data to turn it into meaningful insights that support decision making in healthcare industry, improving services and people's lives. I am committed to delivering high-quality projects on time and am eager to keep learning.
-
+🦽Biomedical engineer with experience in medical imaging, hospital support, and IT network operations. I have worked with diagnostic equipment, clinical workflows, and technical incident resolution, understanding the integration between technological infrastructure and medical practice. During my training and professional experience, I participated in environments with PACS, study management, and clinical user support.
+I currently focus on medical informatics applied to radiology (RIS/PACS), systems integration, and health data analysis. I seek to contribute to projects that optimize clinical processes and improve diagnostic quality through technology.
 
 ## Tools
 
